@@ -9,3 +9,5 @@
 - 단어를 맞추면 "You Win" 메시지가 출력되며 종료됩니다.
 
 #### 순서도
+
+<img src = "https://user-images.githubusercontent.com/147413302/282983293-d3c9b4e6-d076-4052-88ef-425a928ef524.png">
